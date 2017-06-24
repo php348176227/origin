@@ -1,1 +1,3 @@
-ฤใบร
+<?php
+ ย  echo 'hello world';
+ ?>
