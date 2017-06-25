@@ -1,3 +1,4 @@
 ﻿<?php
    echo 'hello world';
+    echo '王八蛋老师，你他妈讲的有用？' 
  ?>
